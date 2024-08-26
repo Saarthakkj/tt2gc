@@ -1,0 +1,218 @@
+## B.Tech. 3rd & 4th Year, M.Tech. 1st & 2nd year, Ph.D. - Monsoon Semester 2024 AY 2024-25 Timetable Breakdown
+
+**Monday**
+
+**9:30 AM - 10:20 AM**
+* MLBA - A106
+* CN-Sec-A - C11
+* CN-Sec-B - C03
+* IDUDA - C21
+* BML - C22
+* RA-II - C03
+* D&S - A006
+* NDM - B001
+* TE - C12
+
+**10:20 AM - 11:10 AM**
+* BioP - C213
+* AC - C01
+* ARP - C22
+* ADL - C14
+* ERL - C24
+* QMD - C208
+* PMC - C210
+* ETB - C14
+* ME - C21
+* PCB (CE) - C209
+
+**11:10 AM - 12:00 PM**
+* CRB (PG) - C03
+* GA - C11
+* 3DAF - C13
+* DVD - C21
+* RL - A106
+* WSI - C22
+* IFA - C24
+* GMT - B105
+* KPCC - C208
+* NVP - C01
+
+**12:00 PM - 12:50 PM**
+* POMP - C216
+* DB - C13
+* UD&KB - C22
+* VOSF - C21
+* DSp - C12
+* CImgP - C15
+* TMA - C209
+* BEco - C214
+* Soft - C02
+* MTL - C216
+
+**12:50 PM - 1:40 PM**
+* OOPD (CSE+ECE) - C101
+
+**3:30 PM - 4:20 PM**
+* Slot 3: ML-Sec-B - C01
+* ML-Sec-A - C16
+
+**4:20 PM - 5:10 PM**
+* DAVP - A102
+* ATD - C03
+* IToB - C21
+* GAI - C12
+* ILM - A106
+
+**Tuesday**
+
+**9:30 AM - 10:20 AM**
+* CoMEG - C03
+* AI - C12
+* TDL - C02
+* WN - C13
+* MDG - C22
+* QM - C210
+* LST - B105
+* LBAI - C24
+* AERM - C11
+* INST - A106
+
+**10:20 AM - 11:10 AM**
+* CG&S - C02
+* IIA - B003
+* MAD - C214
+* CMOS - C01
+* PDCS - C21
+* SC - C210
+* FF - C102
+
+**11:10 AM - 12:00 PM**
+* Tut CN (All Groups) - C01, C11
+
+**Wednesday**
+
+**9:30 AM - 10:20 AM**
+* MLBA - A106
+* CN-Sec-A - C11
+* CN-Sec-B - C03
+* IDUDA - C21
+* BML - C22
+* RA-II - C03
+* D&S - A006
+* NDM - B001
+* TE - C12
+
+**10:20 AM - 11:10 AM**
+* ABIN - A106
+* OH - A007
+* BDA - C01
+* CHI - C03
+* DSC - C11
+* FAE - C12
+* CA - C21
+* QCN - C22
+* SPA - B105
+* FOE - C13
+* CI - B001
+
+**11:10 AM - 12:00 PM**
+* Tcom - C102
+
+**12:00 PM - 12:50 PM**
+* Slot 6: POMP - C216
+
+**12:50 PM - 1:40 PM**
+* OOPD (CSE+ECE) - C101
+
+**Thursday**
+
+**9:30 AM - 10:20 AM**
+* CoMEG - C03
+* AI - C12
+* TDL - C02
+* WN - C13
+* MDG - C22
+* QM - C210
+* LST - B105
+* LBAI - C24
+* AERM - C11
+* INST - A106
+
+**10:20 AM - 11:10 AM**
+* BioP - C213
+* AC - C01
+* ARP - C22
+* ADL - C14
+* ERL - C24
+* QMD - C208
+* PMC - C210
+* ETB - C14
+* ME - C21
+
+**11:10 AM - 12:00 PM**
+* Tut SPA - B001, B002, A106, B105
+
+**12:00 PM - 12:50 PM**
+* EVS - C102
+
+**3:30 PM - 4:20 PM**
+* Slot 3: ML-Sec-B - C01
+* ML-Sec-A - C16
+
+**4:20 PM - 5:10 PM**
+* DAVP - A102
+* ATD - C03
+* IToB - C21
+* GAI - C12
+* ILM - A106
+
+**Friday**
+
+**9:30 AM - 10:20 AM**
+* ABIN - A106
+* OH - A007
+* BDA - C01
+* CHI - C03
+* DSC - C11
+* FAE - C12
+* CA - C21
+* QCN - C22
+* SPA - B105
+* FOE - C13
+* CI - B001
+
+**10:20 AM - 11:10 AM**
+* CG&S - C02
+* IIA - B003
+* MAD - C214
+* CMOS - C01
+* PDCS - C21
+* SC - C210
+* FF - C102
+
+**11:10 AM - 12:00 PM**
+* CG LAB - A106
+    * AC Lab (LHC - 3rd Floor, 315, 316)
+
+**11:10 AM - 1:40 PM**
+* ML Tut (All Groups) - C01 (Sec B)
+    * C208, C209, C214, C215, C216 (Sec A)
+
+**12:00 PM - 12:50 PM**
+* CG - A007
+
+**12:50 PM - 1:40 PM**
+* PAIgo - C03
+* BAI - C12
+* ADDV - A210
+* DIP - C216
+* PRP - C01
+* CMM - C13
+* TPW - B105
+
+
+**Other Slots:**
+* Seminar Slot (Time and Day Not Specified)
+* Faculty Meeting (Time and Day Not Specified)
+
+**Note:** This timetable breakdown is based on the provided image and may be subject to change. Please refer to the official timetable released by the institution for the most up-to-date information.
