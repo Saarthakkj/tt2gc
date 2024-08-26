@@ -215,4 +215,4 @@
 * Seminar Slot (Time and Day Not Specified)
 * Faculty Meeting (Time and Day Not Specified)
 
-**Note:** This timetable breakdown is based on the provided image and may be subject to change. Please refer to the official timetable released by the institution for the most up-to-date information.
+    **Note:** This timetable breakdown is based on the provided image and may be subject to change. Please refer to the official timetable released by the institution for the most up-to-date information.
