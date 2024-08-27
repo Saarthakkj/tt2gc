@@ -1,0 +1,11 @@
+{
+    "name": "tt2gc",
+    "version": "1.0.0",
+    "description": "convert your timetable to google calendar",
+    "manifest_version": 3,
+    "author": "Saarthak saxena",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Timetable to Google Calendar"
+    }
+}
